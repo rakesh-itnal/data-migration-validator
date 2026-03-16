@@ -1,0 +1,6 @@
+customer_id,name,email,plan
+1,John Doe,john@example.com,Pro
+2,Alice Smith,alice@example.com,Basic
+3,Bob Brown,bob@example.com,Pro
+4,Emma Wilson,emma@example.com,Enterprise
+5,John Doe,john@example.com,Pro
